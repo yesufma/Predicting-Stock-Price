@@ -35,7 +35,7 @@ This project is divided into three key tasks:
 |------------------|------------------------------------------------------------------------------------------------------|----------------|
 | **EDA**           | Top publishers identified (e.g., Benzinga), most headlines 5–15 words, sentiment mostly neutral      | ![EDA](assets/task1/top_publishers.png) |
 | **Tech Analysis** | RSI and MACD revealed overbought/oversold periods; volatility spikes matched news                    | ![Tech](assets/task2/AAPL_technical_indicators.png) |
-| **Modeling**      | Random Forest accuracy ~65%; technical indicators most predictive, sentiment moderately helpful       | ![Model](assets/task3/feature_importance.png) |
+| **Modeling**      | Random Forest accuracy ~51%; technical indicators most predictive, sentiment moderately helpful       | ![Model](assets/task3/feature_importance.png) |
 
 
 ---
