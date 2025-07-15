@@ -1,4 +1,4 @@
-# 📈 Predicting Stock Price Movement
+#  Predicting Stock Price Movement
 
 Welcome to the 10 Academy Week 1 Challenge project! This repository explores how financial news sentiment and technical indicators can be combined to predict daily stock price movements across multiple companies such as AAPL, AMZN, MSFT, TSLA, and more.
 
