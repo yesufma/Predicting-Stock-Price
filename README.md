@@ -6,7 +6,7 @@ Welcome to the 10 Academy Week 1 Challenge project! This repository explores how
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project is divided into three key tasks:
 
@@ -21,7 +21,7 @@ This project is divided into three key tasks:
 
 ---
 
-## 🔍 Datasets
+##  Datasets
 
 - **News Data:** `raw_analyst_ratings.csv` – contains headlines, date, and publisher.
 - **Stock Data:** `AAPL_historical_data.csv` – contains daily price and volume data.
@@ -41,7 +41,7 @@ This project is divided into three key tasks:
 ---
 
 
-## 📂 Repository Structure
+##  Repository Structure
 ```
 notebooks/
 ├── task1_eda.ipynb # News headline EDA
@@ -96,7 +96,7 @@ Add macroeconomic indicators or trading volume as features
 
 Expand to other stocks (e.g., MSFT, TSLA) for generalization
 
-# 🙌 Acknowledgements
+# Acknowledgements
 10 Academy – for the challenge and guidance
 
 Libraries Used – pandas, scikit-learn, ta-lib, TextBlob, matplotlib, seaborn, and more
